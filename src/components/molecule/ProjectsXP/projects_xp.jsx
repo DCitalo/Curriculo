@@ -143,10 +143,10 @@ let ProjectsXP = (props) => {
             </div>
             <div className="container-80 DF FW">
               <h3 className="container-100 BorB P-5 desc-cont rob-cond">
-                IURIS
+                Moodsight
               </h3>
               <span className="container-100 BorB P-5 desc-cont rob-cond">
-                Anhembi Morumbi - TCC - Moodsight
+                Anhembi Morumbi - TCC
               </span>
               <span className="container-100 BorB P-5 desc-cont rob-cond">
                 O moodsight é uma ferramenta digital multifuncional cujo
