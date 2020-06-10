@@ -137,6 +137,34 @@ let ProjectsXP = (props) => {
         <li className="container-100 mb-container-100 DF FW">
           <div className="container-100 DF FW cont-xp-projects-info">
             <div className="container-20 cont-logo-proj">
+              <a href="https://github.com/DCitalo/moodsight" target="_blank">
+                <img src="images/Moodsight-logo.png" />
+              </a>
+            </div>
+            <div className="container-80 DF FW">
+              <h3 className="container-100 BorB P-5 desc-cont rob-cond">
+                IURIS
+              </h3>
+              <span className="container-100 BorB P-5 desc-cont rob-cond">
+                Anhembi Morumbi - TCC - Moodsight
+              </span>
+              <span className="container-100 BorB P-5 desc-cont rob-cond">
+                O moodsight é uma ferramenta digital multifuncional cujo
+                objetivo é incrementar a relação homem-maquina afim de aumentar
+                e acelerar a produção dos designers sem haver perda de
+                qualidade.
+              </span>
+              <span className="container-100 BorB P-5 desc-cont rob-cond">
+                Arthur Roberto / Fábio Zellon / Guilherme Bueno / Ítalo Drago /
+                Kelvin Hiekata / Lucas Medeiros
+              </span>
+            </div>
+          </div>
+          <ul className="container-100 DF FW cont-xp-projects"></ul>
+        </li>
+        <li className="container-100 mb-container-100 DF FW">
+          <div className="container-100 DF FW cont-xp-projects-info">
+            <div className="container-20 cont-logo-proj">
               <a
                 href="https://github.com/DCitalo/Projeto-Interdisciplinar-6-semestre"
                 target="_blank"
